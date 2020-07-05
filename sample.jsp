@@ -18,7 +18,7 @@
 console.log('func test() start');
 		    var result = 0;
 		    result = value1 + value2;
-			logln('result:' + result);
+			logIn('result:' + result);
 			
 		    return result;
 		}
